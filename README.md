@@ -1,2 +1,2 @@
 # ThinkPython
-My solutions to selected exercises in Allen Downey's &lt;b>"Think Python 2e"&lt;/b>.
+My solutions to selected exercises in Allen Downey's <b>"Think Python 2e"</b>.
